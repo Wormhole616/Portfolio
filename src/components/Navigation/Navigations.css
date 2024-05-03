@@ -1,0 +1,30 @@
+/* Navigation styles */
+
+.nav {
+    display: flex;
+    list-style: none;
+    width: 40vw;
+    justify-content: space-between;
+  }
+  
+  #nav-link:visited {
+    text-decoration: none;
+    color: #c2b39a;
+  }
+  
+  #nav-link.active {
+    color: #723d07;
+    display: flex;
+    justify-content: end;
+  }
+  
+  #nav-link {
+    display: flex;
+    justify-content: end;
+  }
+  
+  @media (max-width: 589px) {
+    .nav {
+      flex-direction: column;
+    }
+  }
