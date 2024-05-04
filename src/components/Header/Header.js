@@ -1,6 +1,6 @@
 // Imports
 import React from "react";
-import Navigation from "../Navigation/Navigation";
+import Navigation from "../Navigation/Navigations.js";
 import "./Header.css";
 
 // Function that renders the header & exports

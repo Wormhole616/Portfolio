@@ -1,7 +1,7 @@
 //Imports
 import React from "react";
 import "./About.css";
-import hero from "../../../images/HeroImage.png";
+import pic from "../../../images/smith.jpg";
 import CardMedia from "@mui/material/CardMedia";
 
 // Function that renders the about page & exports
@@ -18,7 +18,7 @@ export default function About() {
             margin: "0 auto",
             paddingTop: "20px",
           }}
-          image={smith}
+          image={pic}
           alt="Smith Rock State Park, Oregon"
         />
       </div>

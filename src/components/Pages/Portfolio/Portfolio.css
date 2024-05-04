@@ -17,12 +17,12 @@ div#project {
   }
   
   #portfolio-button {
-    background-color: #db791a;
-    color: white;
+    background-color: #b1967a;
+    color: rgb(234, 177, 177);
   }
   
   #portfolio-button:hover {
-    background-color: #b58d65;
+    background-color: #72481e;
     color: white;
   }
   

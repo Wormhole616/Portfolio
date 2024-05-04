@@ -2,7 +2,7 @@
 /* Header styles */
 
 .headerParent {
-    background-color: #693818;
+    background-color: #edbf9c;
     height: "20vh";
     display: flex;
     justify-content: space-between;
@@ -11,6 +11,6 @@
   
   #header-text {
     font-size: xx-large;
-    color: #f0d6ac;
+    color: #9c8c72;
   }
   

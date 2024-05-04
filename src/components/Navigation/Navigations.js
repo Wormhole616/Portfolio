@@ -1,6 +1,6 @@
 // Imports
 import React from "react";
-import "./Navigation.css";
+import "./Navigations.css";
 import Box from "@mui/material/Box";
 import { Button } from "@mui/material";
 import useTab from "@mui/base/useTab";
@@ -46,16 +46,7 @@ function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
           Contact
         </a>
       </li>
-      <li className="nav-item">
-        <a
-          id="nav-link"
-          href="#resume"
-          onClick={() => setCurrentPage("Resume")}
-          className={currentPage === "Resume" ? "nav-link active" : "nav-link"}
-        >
-          Resume
-        </a>
-      </li>
+      
     </ul>
 
    
