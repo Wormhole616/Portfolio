@@ -46,6 +46,9 @@ Challenges faced when building this application resulted mainly from mixing CSS 
 [Link to live site](https://portfolio-youj.onrender.com/)
 
 ## Screenshots
+![1](https://github.com/Wormhole616/Portfolio/assets/144727575/47b7ff06-5bde-47ce-82db-556f51a64e46)
+![3](https://github.com/Wormhole616/Portfolio/assets/144727575/0847c619-13c3-4050-aeaf-c418fe003ab9)
+![2](https://github.com/Wormhole616/Portfolio/assets/144727575/db4ffc94-2e41-4c4a-bcbc-833b96e53a59)
 
 
 ## Technologies Used
