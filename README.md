@@ -35,11 +35,7 @@
 
 ## Description
 
-This portfolio application was developed and designed to showcase my web applications, resume, and skills to potential employers, clients, and interested parties. It was created using React an open sourced JavaScript library for building user interfaces, and Material-UI, a popular component library that implements Google's Material Design. React was created by Facebook developers and helps simplify the process of building interactive and dynamic user interfaces by providing a component-based structure, efficient rendering through the virtual DOM, and a declarative syntax. It operates via a one page application, but gives the user experience of multiple page functionality.
-
-As it stands, this application is all front-end. However I will be looking to add a backend framework so that I can receive messages via my contact page. React allows for developer flexibility and seems to still be on the rise in popularity. React offers developers numerous options in choosing other back-end frameworks and middleware options as it is a library focused on the View layer only therefore allowing developers to build UI components leaving the choice of other libraries or tools for additional functionalities open ended.
-
-Challenges faced when building this application resulted mainly from mixing CSS and Material UI styles and implementing the useState functionality on the nav-links. Although MUI did much of the heavy lifting, tweaking already conceived styles and adding event listener functionality turned out to be more difficult than expected as the documentation and trouble shooting are not quite as readily available as a library such as Bootstrap. In addition, adding the error handling and authentication of the contact page turned out to be rather tricky as well.
+Welcome to Gustavo’s personal portfolio website, a digital platform that encapsulates his professional journey and personal interests. Here, you’ll find a comprehensive overview of his work as full stack developer, demonstrating his commitment and expertise gained over the years. The website also serves as a testament to his passion for technology, featuring a section dedicated to his ongoing learning endeavors. But it’s not all work and no play. The site offers a glimpse into Gustavo’s personal life, showcasing the love he has for his close ones and hobbies. This website is a reflection of Gustavo - a professional, a technophile, a father, and a pet owner. Enjoy the journey as you navigate through his world.
 
 ## Live URL
 
